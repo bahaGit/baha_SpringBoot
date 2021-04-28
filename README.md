@@ -1,3 +1,2 @@
-# 
-SpringBoot
+# SpringBoot
 Spring Framework
